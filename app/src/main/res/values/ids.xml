@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="player_one_score" type="id" />
+    <item name="player_two_score" type="id" />
+    <item name="view4" type="id" />
+    <item name="eight" type="id" />
+    <item name="four" type="id" />
+    <item name="seven" type="id" />
+    <item name="nine" type="id" />
+</resources>
